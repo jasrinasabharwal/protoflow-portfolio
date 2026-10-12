@@ -166,7 +166,7 @@ function App() {
         <div className="contact-bottom"><span>© 2026 / JASRINA'S BUILDER'S LOG</span><a href="#home">BACK TO TOP ↑</a><span>MADE WITH CURIOSITY <b>✳</b></span></div>
       </section>
     </main>
-    <footer><span>BUILT TO BE EDITED.</span><span>REPLACE PLACEHOLDERS BEFORE SHARING.</span></footer>
+    <footer><span>BUILT TO BE EDITED.</span><span>JASRINA SABHARWAL.</span></footer>
   </div>;
 }
 
